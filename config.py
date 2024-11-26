@@ -13,7 +13,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002390640098"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://bilijacksonvill:<8G4mUy1geKSqTlNA>@project1.mgyms.mongodb.net/?retryWrites=true&w=majority&appName=project1")
 DB_NAME = os.environ.get("DB_NAME", "Renamepro")
 
-STRING = os.environ.get("STRING", "BQE5wZsAWVhZsiodpb25LlZWW3uOCv2p3g32ttOUrIbta2BPLBgDCXxBVSl-b19uLwdR00JyYtMc0VPhujka-hmSOPFF7lzmXoOq4MQve_qdx7qCvu8dTZX-8RHg9LuA97lgTWPU5_BFO8O7dkAbAxzHPes6hZRAvScT7AV7PPDF5_BL0lv8QegU9ObWT2U6vt0gg_KEBK_-EQ8VepEY9oDECsawMe7Ro8TY6GyQ_FVEXo3hlP6e5z7s1Sn72dsRMqk--EHbnf17BYWvkSwMlFFbES-Aoodp8BWwuERMNMAtq5mswf0HgFptH6ej-iFz3AoKgOSt2FuU_QzEhJkdFG69jHVblgAAAAB9nzd3AA")
+STRING = os.environ.get("STRING", "BQE5wZsAEWWEObVq2T8UTji5bQqcv3qMVA3FT9hWRiFCNcP-e5NJD0hxnzMibVEJXyHHNNKE8QRm7i6vruAeNMzOkW1mNbjl0w_1K6hhiK7BSXfkkbgPQqUrEH-3hAq_1jsLhNdKlmbxqEj_0VhAfNJdLBACc5B4X3go7PtUef9Y3jPJr0ZJcxgoRKY0ify4fFWOcLTyz7j1ABxduRHQcpPUF9l1q5XlISb30OX3cgAHP4RZ_JSzX7QA3gHwoBxW7nEasaO5PmrAPM7Vfderyxlz-bX0DekGkNa7F7FvLC_zXY3FILuwVE4CxjyANPjVuTAxIIo9SnwKm6aHhQQsKQOrY5w7pQAAAAB9nzd3AA")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/cca849a2f63053fa3f622.jpg")
 
 
