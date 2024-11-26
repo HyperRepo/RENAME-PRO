@@ -19,11 +19,11 @@ class script(object):
     ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://t.me/Hyper_Rename_Bot'>Rename Bot 2.0</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://Koyeb.com'>Koyeb</a>
+<b>🚀 Server :</b> <a href='https://seenode.com'>Koyeb</a>
 <b>📢 Channel :</b> <a href='https://t.me/+YeRiU7Awgn84NmFl'>HyperBots</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/dramamob'>Reyan</a>
 
-<b>♻️ Bot Made By :</b> @Hyper_Bots"""
+<b>♻️ Bot Made By :</b> @HyperBots"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
