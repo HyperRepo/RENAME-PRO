@@ -10,7 +10,7 @@ BOT_USERNAME = os.environ.get('BOT_USERNAME', "Hyper_Rename_Bot")
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002315795055")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002390640098"))
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://bilijacksonvill:<8G4mUy1geKSqTlNA>@project1.mgyms.mongodb.net/?retryWrites=true&w=majority&appName=project1")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://bilijacksonvill:8G4mUy1geKSqTlNA@project1.mgyms.mongodb.net/")
 DB_NAME = os.environ.get("DB_NAME", "Renamepro")
 
 STRING = os.environ.get("STRING", "BQE5wZsAEWWEObVq2T8UTji5bQqcv3qMVA3FT9hWRiFCNcP-e5NJD0hxnzMibVEJXyHHNNKE8QRm7i6vruAeNMzOkW1mNbjl0w_1K6hhiK7BSXfkkbgPQqUrEH-3hAq_1jsLhNdKlmbxqEj_0VhAfNJdLBACc5B4X3go7PtUef9Y3jPJr0ZJcxgoRKY0ify4fFWOcLTyz7j1ABxduRHQcpPUF9l1q5XlISb30OX3cgAHP4RZ_JSzX7QA3gHwoBxW7nEasaO5PmrAPM7Vfderyxlz-bX0DekGkNa7F7FvLC_zXY3FILuwVE4CxjyANPjVuTAxIIo9SnwKm6aHhQQsKQOrY5w7pQAAAAB9nzd3AA")
